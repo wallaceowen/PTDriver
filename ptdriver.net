@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source /home/owen/KiCAD/PTDriver/ptdriver6/ptdriver6.sch)
+    (source /home/owen/KiCAD/PTDriver/ptdriver.sch)
     (date "Wed 08 Sep 2021 04:03:01 PM PDT")
     (tool "Eeschema 5.1.10-88a1d61d58~90~ubuntu20.04.1")
     (sheet (number 1) (name /) (tstamps /)
@@ -9,7 +9,7 @@
         (company)
         (rev)
         (date)
-        (source ptdriver6.sch)
+        (source ptdriver.sch)
         (comment (number 1) (value ""))
         (comment (number 2) (value ""))
         (comment (number 3) (value ""))

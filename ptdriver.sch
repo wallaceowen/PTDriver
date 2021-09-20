@@ -229,7 +229,7 @@ Wire Wire Line
 Wire Wire Line
 	8500 2250 8700 2250
 $Comp
-L weo:MAX31865_SSOP U4
+L ptdriver-rescue:MAX31865_SSOP-weo U4
 U 1 1 6004EB3C
 P 7800 950
 F 0 "U4" H 7350 900 50  0000 C CNN
@@ -1407,7 +1407,7 @@ Wire Wire Line
 Wire Wire Line
 	8800 4350 9000 4350
 $Comp
-L weo:MAX31865_SSOP U6
+L ptdriver-rescue:MAX31865_SSOP-weo U6
 U 1 1 61453592
 P 8100 3050
 F 0 "U6" H 7650 3000 50  0000 C CNN
