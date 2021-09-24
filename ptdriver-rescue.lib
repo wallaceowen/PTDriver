@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# MAX31865_SSOP-weo
+# MAX31865_SSOP-weo-ptdriver-rescue
 #
-DEF MAX31865_SSOP-weo U 0 20 Y Y 1 F N
+DEF MAX31865_SSOP-weo-ptdriver-rescue U 0 20 Y Y 1 F N
 F0 "U" -450 50 50 H V C CNN
-F1 "MAX31865_SSOP-weo" 800 -1850 50 H V C CNN
+F1 "MAX31865_SSOP-weo-ptdriver-rescue" 800 -1850 50 H V C CNN
 F2 "" -1100 50 50 H I C CNN
 F3 "" -1100 50 50 H I C CNN
 DRAW
